@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36" version="28.0.3">
   <diagram name="Page-1" id="oLLjG_u1hGccs61cY0yD">
-    <mxGraphModel dx="2962" dy="2047" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2657" dy="1922" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,6 +8,17 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="GS3xTuFywnWEybeN_c-w-1" target="GS3xTuFywnWEybeN_c-w-7" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GS3xTuFywnWEybeN_c-w-1" target="dyCETWRogc4DpOOfLynS-54">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="140" y="220" />
+              <mxPoint x="-140" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GS3xTuFywnWEybeN_c-w-1" target="dyCETWRogc4DpOOfLynS-63">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-1" value="&lt;font style=&quot;color: rgb(255, 255, 255);&quot;&gt;Jakarta City is sinking with alarming rate&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CC0000;" parent="1" vertex="1">
@@ -18,6 +29,17 @@
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="GS3xTuFywnWEybeN_c-w-2" target="GS3xTuFywnWEybeN_c-w-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="GS3xTuFywnWEybeN_c-w-2" target="dyCETWRogc4DpOOfLynS-48">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="190" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410" y="230" />
+              <mxPoint x="520" y="230" />
+              <mxPoint x="520" y="557" />
+              <mxPoint x="440" y="557" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-2" value="River flooding (mainly in Ciliwung River)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="120" width="120" height="60" as="geometry" />
@@ -52,11 +74,8 @@
         <mxCell id="dyCETWRogc4DpOOfLynS-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GS3xTuFywnWEybeN_c-w-16" target="dyCETWRogc4DpOOfLynS-39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="dyCETWRogc4DpOOfLynS-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="GS3xTuFywnWEybeN_c-w-16" target="dyCETWRogc4DpOOfLynS-48">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-16" value="Increase runoff in the riverbanks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="328" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GS3xTuFywnWEybeN_c-w-17" target="dyCETWRogc4DpOOfLynS-14">
           <mxGeometry relative="1" as="geometry" />
@@ -65,16 +84,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-17" value="land use change to become informal settlement, particularly&amp;nbsp;riverbanks" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="80" y="697" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="769" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-18" value="rapid urbanization from rural to Jakarta since 1945" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="320" y="937" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="1009" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="GS3xTuFywnWEybeN_c-w-22" value="because of" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="380" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="380" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-1" value="lack of urban planning" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="697" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="769" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-7" target="dyCETWRogc4DpOOfLynS-1">
           <mxGeometry relative="1" as="geometry" />
@@ -83,37 +102,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-7" value="loss of green space and floodplain" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="697" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="769" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-8" target="dyCETWRogc4DpOOfLynS-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-8" value="decrease in water precipitation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="576" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="648" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-14" target="GS3xTuFywnWEybeN_c-w-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-14" value="high settlement demand" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="817" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="889" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-39" target="GS3xTuFywnWEybeN_c-w-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-39" value="waterways are reduced and narrowed" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="576" width="120" height="60" as="geometry" />
+          <mxGeometry x="80" y="648" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-43" target="dyCETWRogc4DpOOfLynS-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-43" value="poor waste management system" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="576" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="648" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-48" target="dyCETWRogc4DpOOfLynS-43">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-48" value="Clogged drainage and rivers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="454" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="526" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-51" target="GS3xTuFywnWEybeN_c-w-17">
           <mxGeometry relative="1" as="geometry" />
@@ -122,24 +141,61 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-51" value="excessive groundwater extraction for a long time" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="697" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="769" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-54" target="dyCETWRogc4DpOOfLynS-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-54" value="land subsidence" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-200" y="328" width="120" height="60" as="geometry" />
+          <mxGeometry x="-200" y="400" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="dyCETWRogc4DpOOfLynS-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-56" target="dyCETWRogc4DpOOfLynS-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-420" y="790" />
-              <mxPoint x="380" y="790" />
+              <mxPoint x="-420" y="862" />
+              <mxPoint x="380" y="862" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="dyCETWRogc4DpOOfLynS-56" value="limited pipeline water infrastructure pro" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-480" y="697" width="120" height="60" as="geometry" />
+        <mxCell id="dyCETWRogc4DpOOfLynS-56" value="limited pipeline water infrastructure" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="769" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-63" target="dyCETWRogc4DpOOfLynS-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0000FF;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-63" target="dyCETWRogc4DpOOfLynS-77">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-140" y="190" />
+              <mxPoint x="-110" y="190" />
+              <mxPoint x="-110" y="260" />
+              <mxPoint x="140" y="260" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-63" value="Sea-level rise" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-65" target="dyCETWRogc4DpOOfLynS-67">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-65" value="Melted glaciers and freshwater" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-67" target="dyCETWRogc4DpOOfLynS-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-67" value="Increased ocean temperature" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-20" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-69" value="Greenhouse gas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="-180" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dyCETWRogc4DpOOfLynS-77" target="GS3xTuFywnWEybeN_c-w-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dyCETWRogc4DpOOfLynS-77" value="Increased water-discharge to ocean" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="290" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
